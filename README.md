@@ -8,7 +8,7 @@ git add -A or git add .
 git commit -m "DESCRIPTION_MSG"
 	to commit the changes in local repo
 
-git push
+```git push```
 	to push the changes to remote repo github
 
 git branch -a
